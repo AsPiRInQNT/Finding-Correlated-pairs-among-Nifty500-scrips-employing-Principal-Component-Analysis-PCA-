@@ -5,5 +5,7 @@ Last Few Principal Components', which are nothing but the last few eigenvectors 
 The results of this type of analysis can easily be used for portfolio contruction 
 dictated by the investors risk appetite.
 
+Link to the paper-https://arxiv.org/pdf/1512.03537.pdf
+
 Commented instructions are included in the .py file enclosed above wherever needed.
 
