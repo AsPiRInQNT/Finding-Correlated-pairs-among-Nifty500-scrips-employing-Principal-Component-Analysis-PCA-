@@ -1,4 +1,4 @@
-# Finding-Correlated-pairs-among-Nifty500-scrips-employing-Principal-Component-Analysis-PCA-
+# Finding-Correlated-pairs-among-Nifty50-scrips-employing-Principal-Component-Analysis-PCA-
 
 This methodology is inspired by the  paper named -'Identifying Highly Correlated Stocks Using the
 Last Few Principal Components', which are nothing but the last few eigenvectors of the decomposed covariance matrix, to find correlations which are otherwise disguised.
